@@ -7,4 +7,4 @@ To use it on your browser,
 3. Click on load unpacked, choose the dowloaded files and click on open.
 4. Enable the extension and enjoy!
 
-Note: There might be some ads that this extension can't block. In that case, raise an issue.
+Note: There might be some ads that this extension can't block. In that case, raise an issue (mention the site url).
