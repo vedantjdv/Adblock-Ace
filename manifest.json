@@ -1,0 +1,15 @@
+{
+  "name": "Adblock ace",
+  "version": "0.0.1",
+  "description":"This is a revolutionary adblocker completely free.",
+  "permissions":["webRequest","webRequestBlocking","<all_urls>"],
+  "background":{"scripts":["blockedSitesUrl.js"]},
+  "icons":{
+    "24":"icons/logo_24x24.png",
+    "48":"icons/logo_48x48.png",
+    "96":"icons/logo_96x96.png"
+  },
+
+  "manifest_version":2
+  }
+
