@@ -5,4 +5,6 @@ To use it on your browser,
 1. Download the code files.
 2. In your browser, go to extensions and turn on developer mode.
 3. Click on load unpacked, choose the dowloaded files and click on open.
+4. Enable the extension and enjoy!
 
+Note: There might be some ads that this extension can't block. In that case, raise an issue.
